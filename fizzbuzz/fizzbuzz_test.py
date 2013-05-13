@@ -1,3 +1,6 @@
+"""
+Run via pytest
+"""
 from fizzbuzz import fizzbuzz
 
 def test_one():
